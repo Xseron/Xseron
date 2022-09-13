@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xseron
-- 👀 I’m interested in java,python,c++ projects i want to join some organizations.Take parth in big progects,end get experience work in team.
+- 👀 I’m interested in golang,python,c++,node js projects projects i want to join some organizations.Take parth in big progects,end get experience work in team.
 - 🌱 I’m currently learning server tcp, and network management, some defolt algoritms, and write a contests on codeforces.com
 - 📫 If u want to coloberete with me send me a email - torossyan.david@mail.ru(may be i can make a site)
 - 💗 About me: i like watch a anime,play video games,and fading away 😏
