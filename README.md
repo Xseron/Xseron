@@ -1,16 +1,16 @@
-Programmer engineer, I want to work in information protection.
+Разработка веб-приложений
 
-I know the syntax of languages: python, golang, js, php, flutter
+Специализируюсь на создании надежных веб-приложений. Full stack разработчик на PHP (Laravel), Node js, Java (EE, Spring), Go(gin, go-chi), Vue 3, Nuxt 3, Tailwind css, React и легаси код.
+Так же разрабатываю сайт на CRM - Bitrix24, Wordpress, Drupal, Shopyfy
 
-So far I have experience in creating:
-1) Mobile applications in java, flutter
-2) Php sites
-4) Telegram, discord bots in python
-5) Encryption algorithms, backend in golang
+Автоматизация процессов
 
-![helloanime](https://user-images.githubusercontent.com/100696554/156178294-23a42f68-bc89-4e7e-b99d-6f8d7cddefd2.png)
+Оптимизирую рутинные задачи и упрощаю рабочие процессы. Это включает сбор отзывов по электронной почте и мессенджерам, разработка ботов на aiogram, модерацию контента в рабочих чатах, создание пользовательских фильтров для файлов, разработку дизайнера документов в Word, распознавание объектов, расчет статистики, визуализацию данных и парсинг веб-страниц.
 
-<!---
-Xseron/Xseron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Приложения для ПК
+
+Создаю приложения на Chromium и других нативных инструментах, уделяя особое внимание отказоустойчивости, скорости и удобству использования.
+
+Кибербезопасность
+
+Анализирую приложения на предмет различных кибератак, таких как SQL-инъекции, утечки памяти, XSS, CSS и другие. Создаю VPN и устанавливаю безопасные зашифрованные соединения для обеспечения безопасности приложений.
